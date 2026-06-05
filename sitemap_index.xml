@@ -2,15 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://cradlematsu-create.github.io/cardmuseum-sitemap/sitemap1.xml</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2026-06-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://cradlematsu-create.github.io/cardmuseum-sitemap/sitemap2.xml</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2026-06-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://cradlematsu-create.github.io/cardmuseum-sitemap/sitemap3.xml</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2026-06-05</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://cradlematsu-create.github.io/cardmuseum-sitemap/sitemap4.xml</loc>
+    <lastmod>2026-06-05</lastmod>
   </sitemap>
 </sitemapindex>
 
